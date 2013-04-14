@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"  >
+    <item android:id="@+id/itemStartService" android:title="@string/menu_start_service"></item>
+    <item android:id="@+id/itemStopService" android:title="@string/menu_stop_service"></item>
+    <item android:id="@+id/itemStartRefreshService" android:title="@string/menu_start_refresh_service"></item>
+    <item android:id="@+id/itemStatusActivity" android:title="@string/status_activity"></item>
+    
+
+</menu>
